@@ -1,6 +1,6 @@
 /* Personal info. Edited from the admin panel. */
 window.SITE_CONFIG = {
-  "lang": "en",
+  "lang": "ar",
   "name": "𝑚𝑎ℎ𝑑𝑖",
   "bio": "..",
   "avatar": "images/avatar.svg",
