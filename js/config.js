@@ -2,7 +2,7 @@
 window.SITE_CONFIG = {
   "lang": "en",
   "name": "𝑚𝑎ℎ𝑑𝑖",
-  "bio": "Designer, dreamer, and night-time photographer.\nLiving between cities and good coffee.",
+  "bio": "",
   "avatar": "images/avatar.svg",
   "background": "images/background.svg",
   "footer": "© 2026 Your Name",
@@ -10,7 +10,7 @@ window.SITE_CONFIG = {
     {
       "platform": "instagram",
       "label": "Instagram",
-      "url": "https://instagram.com/yourhandle"
+      "url": "https://www.instagram.com/ag_yn?mdxt=OTRuYnE2NGtrdTE4"
     },
     {
       "platform": "tiktok",
