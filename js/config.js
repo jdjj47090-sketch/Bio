@@ -1,8 +1,8 @@
 /* Personal info. Edited from the admin panel. */
 window.SITE_CONFIG = {
-  "lang": "ar",
-  "name": "𝑚𝑎ℎ𝑑𝑖",
-  "bio": "..",
+  "lang": "en",
+  "name": "Your Name",
+  "bio": ".",
   "avatar": "images/avatar.svg",
   "background": "images/background.svg",
   "footer": "© 2026 Your Name",
@@ -10,7 +10,7 @@ window.SITE_CONFIG = {
     {
       "platform": "instagram",
       "label": "Instagram",
-      "url": "https://www.instagram.com/ag_yn?mdxt=OTRuYnE2NGtrdTE4"
+      "url": "https://instagram.com/yourhandle"
     },
     {
       "platform": "tiktok",
