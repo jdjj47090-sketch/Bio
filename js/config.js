@@ -1,7 +1,7 @@
 /* Personal info. Edited from the admin panel. */
 window.SITE_CONFIG = {
   "lang": "en",
-  "name": "Your Name",
+  "name": "𝑚𝑎ℎ𝑑𝑖",
   "bio": "Designer, dreamer, and night-time photographer.\nLiving between cities and good coffee.",
   "avatar": "images/avatar.svg",
   "background": "images/background.svg",
