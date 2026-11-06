@@ -2,7 +2,7 @@
 window.SITE_CONFIG = {
   "lang": "en",
   "name": "𝑚𝑎ℎ𝑑𝑖",
-  "bio": "",
+  "bio": "..",
   "avatar": "images/avatar.svg",
   "background": "images/background.svg",
   "footer": "© 2026 Your Name",
